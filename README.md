@@ -59,5 +59,8 @@
     Push al repositorio original 
     Creación de PR 
     Revisión 
-    Merge a main  
+    Merge a main
+    
+## Ejecución
 
+    python scripts/analisis_datos.py
