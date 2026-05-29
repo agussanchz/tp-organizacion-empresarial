@@ -1,4 +1,4 @@
-# Trabajo practico Organizacion Empresarial
+# Trabajo práctico Organización Empresarial
 
 ## Integrantes
      Agustín Emiliano Sanchez
