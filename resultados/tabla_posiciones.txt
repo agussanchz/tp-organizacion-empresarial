@@ -1,0 +1,6 @@
+Tabla de posiciones
+
+Boca: 4 puntos
+River: 3 puntos
+Racing: 2 puntos
+Independiente: 1 puntos
